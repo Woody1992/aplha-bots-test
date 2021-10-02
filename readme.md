@@ -24,7 +24,7 @@ DATABASES = {
 
 7. Запускаем сервер ```python manage.py runserver```
 
-#Задание номер 1
+# Задание номер 1
 1. В папке ```bot_task1``` запускаем файл ``` bot_1.py ```
    + В этой же папке есть ```credential.json``` с настройками для Google API 
 2. Адрес Google Spread Sheet с доступом на чтение 
@@ -32,7 +32,7 @@ DATABASES = {
 3. Адрес бота [BOT](https://t.me/alpha_bots_form_bot)
 4. Данные сохраняются в Google Sheet и в БД, их можно посмотреть в админке Джанго и в Google sheet
 
-#Задание номер 2
+# Задание номер 2
 1. В папке ```bot_task2``` запускаем файл ``` bot_2.py ```
 2. В БД уже созданы 4 записи:
     * name: **Misha** referral_code **[44444444]**
