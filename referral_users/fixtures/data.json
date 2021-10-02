@@ -1,0 +1,37 @@
+[
+  {
+    "model": "referral_users.ReferralUser",
+    "pk": 1,
+    "fields": {
+      "name": "Vadym",
+      "referral_code": "11111111"
+    }
+  },
+
+  {
+    "model": "referral_users.ReferralUser",
+    "pk": 2,
+    "fields": {
+      "name": "Ivan",
+      "referral_code": "22222222"
+    }
+  },
+
+  {
+    "model": "referral_users.ReferralUser",
+    "pk": 3,
+    "fields": {
+      "name": "Leo",
+      "referral_code": "33333333"
+    }
+  },
+
+  {
+    "model": "referral_users.ReferralUser",
+    "pk": 4,
+    "fields": {
+      "name": "Misha",
+      "referral_code": "44444444"
+    }
+  }
+]
